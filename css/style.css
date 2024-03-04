@@ -2330,3 +2330,19 @@ blockquote {
 
 
 
+#contact-form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  #contact-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  #contact-form input, #contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
